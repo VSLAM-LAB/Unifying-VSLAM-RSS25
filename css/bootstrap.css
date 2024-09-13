@@ -131,6 +131,29 @@ img {
   border: 0;
 }
 
+.photo {
+  max-width: 25%;
+  border: 0;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.gallery-item {
+  text-align: center;
+  margin: 15px;
+}
+
+.gallery-item img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-bottom: 8px;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
