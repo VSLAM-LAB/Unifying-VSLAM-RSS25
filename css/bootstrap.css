@@ -148,10 +148,11 @@ img {
 }
 
 .gallery-item img {
-  width: 300px;
-  height: auto;
+  text-align: center;
+  height: 150px;
+  width: auto;
   display: block;
-  margin-bottom: 8px;
+  margin: 0 auto 8px;
 }
 
 svg:not(:root) {
@@ -237,6 +238,7 @@ textarea {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  font-size: 150%;
 }
 
 @media print {
