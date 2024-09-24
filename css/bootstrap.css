@@ -136,9 +136,15 @@ img {
   border: 0;
 }
 
-.gallery {
+.gallery_5 {
   display: grid;
   grid-template-columns: repeat(5,1fr);
+  grid-gap: 20px; /* Adjust this to control horizontal and vertical spacing */
+}
+
+.gallery_6 {
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
   grid-gap: 20px; /* Adjust this to control horizontal and vertical spacing */
 }
 
