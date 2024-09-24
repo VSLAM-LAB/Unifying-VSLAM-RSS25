@@ -137,22 +137,27 @@ img {
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  grid-gap: 20px; /* Adjust this to control horizontal and vertical spacing */
 }
 
 .gallery-item {
-  text-align: center;
-  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .gallery-item img {
-  text-align: center;
   height: 150px;
   width: auto;
+  object-fit: contain;
   display: block;
-  margin: 0 auto 8px;
+  margin: 0 auto;
+}
+
+.gallery-item h4, .gallery-item p {
+  text-align: center;
 }
 
 svg:not(:root) {
