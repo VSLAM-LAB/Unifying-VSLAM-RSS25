@@ -136,6 +136,18 @@ img {
   border: 0;
 }
 
+.gallery_3 {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 20px; /* Adjust this to control horizontal and vertical spacing */
+}
+
+.gallery_4 {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 20px; /* Adjust this to control horizontal and vertical spacing */
+}
+
 .gallery_5 {
   display: grid;
   grid-template-columns: repeat(5,1fr);
