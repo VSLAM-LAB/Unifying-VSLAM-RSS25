@@ -1,0 +1,41 @@
+- name: Hermann Blum 
+  image: /assets/Blum_Hermann.jpg
+  web: https://hermannblum.net/
+  position: Assistant Professor
+  affiliation: Uni Bonn
+
+- name: Angela Dai
+  image: /assets/Angela.jpeg
+  web: https://www.professoren.tum.de/en/dai-angela
+  position: Professor
+  affiliation: TU Munich
+  
+- name: Tobias Fischer
+  image: /assets/TobiFischer.webp
+  web: https://www.ri.cmu.edu/ri-faculty/wenshan-wang/
+  position: Assistant Professor
+  affiliation: QUT
+
+- name: Wenshan Wang
+  image: /assets/WenshanWang.jpeg
+  web: https://www.tobiasfischer.info/
+  position: Systems Scientist
+  affiliation: CMU
+
+- name: Luigi Freda
+  image: /assets/LuigiFreda.jpg
+  web: https://www.luigifreda.com/
+  position: Principal Perception Engineer
+  affiliation: Dexory
+
+- name: Shehryar Khattak
+  image: /assets/ShehryarKhattak.jpeg
+  web: https://www.linkedin.com/in/shehryar-khattak/
+  position: Robot Technologist
+  affiliation: NASA Jet Propulsion Lab
+
+- name: Tomasz Bednarz
+  image: /assets/TomszBednarz.jpeg
+  web: https://www.linkedin.com/in/tomaszpbednarz/
+  position: Director, Strategic Researcher Engagement
+  affiliation: NVIDIA
