@@ -11,4 +11,4 @@ div_class: lead
 <!-- * <strong>Oct 14, 2024</strong> - The workshop was held at IROS in Abu Dhabi and attracted many participants! [(Event Pictures)](#/features/03-event-pictures) -->
 <!-- * <strong>Aug 30, 2024</strong> - The submission deadline (~~September 1~~) is extended to <span style="color:red;">September 21</span>! -->
 <!-- * <strong>Jul 30, 2024</strong> - [Submissions Portal](#/features/04-call-for-papers) is now open! -->
-* <strong>Mar 24, 2025</strong> - We are excited to host the fist workshop on <strong>Unifying Visual SLAM</strong> at <a href="https://roboticsconference.org/">RSS 2025</a>!
+* <strong>Mar 24, 2025</strong> - We are excited to host the first workshop on <strong>Unifying Visual SLAM</strong> at <a href="https://roboticsconference.org/">RSS 2025</a>!
