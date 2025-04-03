@@ -52,7 +52,7 @@ div_class: lead
             </tr>
             <tr>
               <td>11:00</td>
-              <td>Simplifying visual SLAM for large-scale and multi-device solutions: Do we really need maps?</td>
+              <td><a href="https://zuriich.github.io/CroCoDL/">Large-scale and multi device visual SLAM: CroCoDL dataset and map-free solutions</a></td>
               <td><a href="https://hermannblum.net/">Hermann Blum</a></td>
             </tr>
             <tr>
