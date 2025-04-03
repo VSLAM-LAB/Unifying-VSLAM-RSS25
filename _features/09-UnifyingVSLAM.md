@@ -24,7 +24,12 @@ div_class: lead
               <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
               <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
               <td>-</td>
-            </tr>    
+            </tr>  
+             <tr>
+              <td><a href="https://zuriich.github.io/CroCoDL/">CroCoDL</a></td>
+              <td>Augmented reality visual localization benchmark with data from legged robots, and evaluating human-robot, cross-device mapping and localization.</td>
+              <td>-</td>
+            </tr>      
           </tbody>
         </table>     
       
