@@ -48,8 +48,8 @@ We invite live demonstrations during the poster session. These can either accomp
 <div style="height: 10px;"></div> --> 
 
 ### <strong>Submissions Portal</strong>
-A submission portal will open via CMT on April 7.
-<!-- Please submit your paper via [CMT](https://cmt3.research.microsoft.com/IROSLTP2024/Track/1/Submission/Create). -->
+<!-- A submission portal will open via CMT on April 7.-->
+Please submit your paper via [CMT](https://cmt3.research.microsoft.com/UniVSLAM2025/Track/1/Submission/Create).
 
 <div style="height: 10px;"></div>
 
