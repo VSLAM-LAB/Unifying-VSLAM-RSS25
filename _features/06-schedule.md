@@ -37,7 +37,7 @@ div_class: lead
             </tr>
             <tr>
               <td>09:30</td>
-              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a>: pushing the limits of visual SLAM in challenging environments </td>
+              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a>: Pushing the Limits of Visual SLAM in Challenging Environments </td>
               <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
             </tr>
             <tr>
