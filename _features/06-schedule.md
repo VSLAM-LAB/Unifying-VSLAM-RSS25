@@ -22,7 +22,7 @@ div_class: lead
             </tr>
             <tr>
               <td>08:05</td>
-              <td> <a href="https://github.com/luigifreda/pyslam">PySLAM</a> and <a href="https://github.com/luigifreda/slamplay">SlamPlay</a> </td>
+              <td> <a href="https://github.com/luigifreda/pyslam">pySLAM</a> and <a href="https://github.com/luigifreda/slamplay">slamplay</a>: Modular, Extensible SLAM Tools for Rapid Prototyping and Integration </td>
               <td><a href="https://www.luigifreda.com/">Luigi Freda</a></td>
             </tr>
             <tr>
@@ -37,7 +37,7 @@ div_class: lead
             </tr>
             <tr>
               <td>09:30</td>
-              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a> datasets to push the limits of visual SLAM </td>
+              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a>: pushing the limits of visual SLAM in challenging environments </td>
               <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
             </tr>
             <tr>
