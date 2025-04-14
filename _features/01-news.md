@@ -10,5 +10,5 @@ div_class: lead
 <!-- * <strong> Oct 15, 2024</strong> - Our workshop was featured in an [article by the IEEE Robotics and Automation Society (RAS)](https://www.linkedin.com/feed/update/urn:li:activity:7251733080002936835/)! -->
 <!-- * <strong>Oct 14, 2024</strong> - The workshop was held at IROS in Abu Dhabi and attracted many participants! [(Event Pictures)](#/features/03-event-pictures) -->
 <!-- * <strong>Aug 30, 2024</strong> - The submission deadline (~~September 1~~) is extended to <span style="color:red;">September 21</span>! -->
-* <strong>April 7, 2024</strong> - [Submissions Portal](#/features/05-call-for-papers) is now open! Submissions are due by May 5.
+* <strong>April 7, 2025</strong> - [Submissions Portal](#/features/05-call-for-papers) is now open! Submissions are due by May 5.
 * <strong>Mar 24, 2025</strong> - We are excited to host the first workshop on <strong>Unifying Visual SLAM</strong> at <a href="https://roboticsconference.org/">RSS 2025</a>!
