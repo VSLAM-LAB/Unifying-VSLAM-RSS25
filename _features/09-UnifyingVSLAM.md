@@ -11,56 +11,6 @@ div_class: lead
 <thead>
       <tr>
             <th></th>
-            <th>Courses / Educational Materials / Tutorials</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release">SLAM Handbook</a></td>
-            <td>SLAM Handbook </td>
-      </tr> 
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_">SLAM-Course</a></td>
-            <td>SLAM-Course (2013/14; Cyrill Stachniss)</td>
-      </tr>
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=BuRCJ2fegcc">SLAM - 5 Minutes with Cyrill </a></td>
-            <td>SLAM - 5 Minutes with Cyrill </td>
-      </tr>
-</tbody>
-</table> 
-
-<table>
-<thead>
-      <tr>
-            <th></th>
-            <th>Software Frameworks/Libraries</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://github.com/alejandrofontan/VSLAM-LAB">VSLAM-LAB</a></td>
-            <td>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets</td>
-      </tr>  
-       <tr>
-            <td><a href="https://github.com/gmberton/VPR-methods-evaluation">VPR-methods</a></td>
-            <td>VPR-methods-evaluation</td>
-      </tr>  
-      <tr>
-            <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
-            <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
-      </tr>
-      <tr>
-            <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
-            <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
-      </tr>  
-</tbody>
-</table> 
-
-<table>
-<thead>
-      <tr>
-            <th></th>
             <th>Datasets</th>
       </tr>
 </thead>
@@ -117,8 +67,8 @@ div_class: lead
 <div>
   <ul id="tabs" style="list-style: none; display: flex; padding: 0;">
     <li><button onclick="showTab('tab1')">State-of-the-art Papers</button></li>
-    <li><button onclick="showTab('tab2')">Courses</button></li>
-    <li><button onclick="showTab('tab3')">Software</button></li>
+    <li><button onclick="showTab('tab2')">Courses / Educational Materials / Tutorials</button></li>
+    <li><button onclick="showTab('tab3')">Software Frameworks/Librarie</button></li>
     <li><button onclick="showTab('tab4')">Datasets</button></li>
     <li><button onclick="showTab('tab5')">Foundational</button></li>
     <li><button onclick="showTab('tab6')">Talks</button></li>
@@ -161,12 +111,58 @@ div_class: lead
       </table>   
   </div>
 
-  <div id="tab2" class="tab-content" style="display:none;">
-    <!-- Table 2 (Courses) here -->
+  <div id="tab2" class="tab-content" style="display:none;">    
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>Courses / Educational Materials / Tutorials</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release">SLAM Handbook</a></td>
+                  <td>SLAM Handbook </td>
+            </tr> 
+            <tr>
+                  <td><a href="https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_">SLAM-Course</a></td>
+                  <td>SLAM-Course (2013/14; Cyrill Stachniss)</td>
+            </tr>
+            <tr>
+                  <td><a href="https://www.youtube.com/watch?v=BuRCJ2fegcc">SLAM - 5 Minutes with Cyrill </a></td>
+                  <td>SLAM - 5 Minutes with Cyrill </td>
+            </tr>
+      </tbody>
+      </table> 
   </div>
 
   <div id="tab3" class="tab-content" style="display:none;">
-    <!-- Table 3 (Software) here -->
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>Software Frameworks/Libraries</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://github.com/alejandrofontan/VSLAM-LAB">VSLAM-LAB</a></td>
+                  <td>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets</td>
+            </tr>  
+             <tr>
+                  <td><a href="https://github.com/gmberton/VPR-methods-evaluation">VPR-methods</a></td>
+                  <td>VPR-methods-evaluation</td>
+            </tr>  
+            <tr>
+                  <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
+                  <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
+            </tr>
+            <tr>
+                  <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
+                  <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
+            </tr>  
+      </tbody>
+      </table> 
   </div>
 
   <div id="tab4" class="tab-content" style="display:none;">
