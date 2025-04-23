@@ -69,6 +69,7 @@ div_class: lead
     <button onclick="showTab('tab2', this)">Education</button>
     <button onclick="showTab('tab5', this)">Foundational</button>
     <button onclick="showTab('tab6', this)">Talks</button>
+    <button onclick="showTab('tab9', this)">Tools</button>
     <button onclick="showTab('tab7', this)">More</button>
   </div>
 
@@ -151,7 +152,7 @@ div_class: lead
 
   <div id="tab8" class="tab-content">
     <table>
-      <thead><tr><th></th><th>sStructure-from-Motion</th></tr></thead>
+      <thead><tr><th></th><th>Structure-from-Motion</th></tr></thead>
       <tbody>
         <tr><td><a href="https://github.com/colmap/glomap">GLOMAP</a></td><td>GLOMAP: Global Structure-from-Motion Revisited</td></tr>
         <tr><td><a href="https://github.com/colmap/colmap">COLMAP</a></td><td>COLMAP: General-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface</td></tr>
@@ -159,6 +160,15 @@ div_class: lead
     </table>
   </div>
   
+  <div id="tab9" class="tab-content">
+    <table>
+      <thead><tr><th></th><th>Other Tools</th></tr></thead>
+      <tbody>
+        <tr><td><a href="https://pixi.sh/latest/">Pixi</a></td><td>Pixi: A package management tool for developers</td></tr>
+        <tr><td><a href="https://spectacularai.github.io/docs/sdk/core.html">Spectacular AI</a></td><td>Spectacular AI SDK: Platform-independent software solution for real-time 3D mapping and 6-DoF pose tracking</td></tr>
+      </tbody>
+    </table>
+  </div>  
 </div>
 
 <script>
