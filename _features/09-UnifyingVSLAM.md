@@ -68,6 +68,7 @@ div_class: lead
     <button onclick="showTab('tab2', this)">Education</button>
     <button onclick="showTab('tab5', this)">Foundational</button>
     <button onclick="showTab('tab6', this)">Talks</button>
+    <button onclick="showTab('tab7', this)">More</button>
   </div>
 
   <div id="tab1" class="tab-content active">
@@ -136,6 +137,16 @@ div_class: lead
       </tbody>
     </table>
   </div>
+
+    <div id="tab7" class="tab-content">
+    <table>
+      <thead><tr><th></th><th>Talks</th></tr></thead>
+      <tbody>
+        <tr><td><a href="https://github.com/youngguncho/awesome-slam-datasets">Link</a></td><td>awesome-slam-datasets</td></tr>
+      </tbody>
+    </table>
+  </div>
+  
 </div>
 
 <script>
