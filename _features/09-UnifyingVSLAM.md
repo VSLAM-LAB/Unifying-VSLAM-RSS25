@@ -11,41 +11,6 @@ div_class: lead
 <thead>
       <tr>
             <th></th>
-            <th>State-of-the-art Papers</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://edexheim.github.io/mast3r-slam/">MASt3R-SLAM</a></td>
-            <td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</td>
-      </tr>
-      <tr>
-            <td><a href="https://rmurai.co.uk/projects/GaussianSplattingSLAM/">MonoGS</a></td>
-            <td>Gaussian Splatting SLAM</td>
-      </tr>  
-      <tr>
-            <td><a href="https://github.com/princeton-vl/DPVO">DPVO</a></td>
-            <td>Deep Patch Visual Odometry/SLAM</td>
-      </tr>    
-      <tr>
-            <td><a href="https://github.com/princeton-vl/DROID-SLAM">DROID-SLAM</a></td>
-            <td>DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras</td>
-      </tr>      
-      <tr>
-            <td><a href="https://github.com/raulmur/ORB_SLAM2">ORB-SLAM2</a></td>
-            <td>ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras</td>
-      </tr>      
-      <tr>
-            <td><a href="https://github.com/JakobEngel/dso">DSO</a></td>
-            <td>DSO: Direct Sparse Odometry</td>
-      </tr>
-</tbody>
-</table>   
-
-<table>
-<thead>
-      <tr>
-            <th></th>
             <th>Courses / Educational Materials / Tutorials</th>
       </tr>
 </thead>
@@ -151,7 +116,7 @@ div_class: lead
 
 <div>
   <ul id="tabs" style="list-style: none; display: flex; padding: 0;">
-    <li><button onclick="showTab('tab1')">Papers</button></li>
+    <li><button onclick="showTab('tab1')">State-of-the-art Papers</button></li>
     <li><button onclick="showTab('tab2')">Courses</button></li>
     <li><button onclick="showTab('tab3')">Software</button></li>
     <li><button onclick="showTab('tab4')">Datasets</button></li>
@@ -160,7 +125,40 @@ div_class: lead
   </ul>
 
   <div id="tab1" class="tab-content">
-    <!-- Table 1 (Papers) here -->
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>State-of-the-art Papers</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://edexheim.github.io/mast3r-slam/">MASt3R-SLAM</a></td>
+                  <td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</td>
+            </tr>
+            <tr>
+                  <td><a href="https://rmurai.co.uk/projects/GaussianSplattingSLAM/">MonoGS</a></td>
+                  <td>Gaussian Splatting SLAM</td>
+            </tr>  
+            <tr>
+                  <td><a href="https://github.com/princeton-vl/DPVO">DPVO</a></td>
+                  <td>Deep Patch Visual Odometry/SLAM</td>
+            </tr>    
+            <tr>
+                  <td><a href="https://github.com/princeton-vl/DROID-SLAM">DROID-SLAM</a></td>
+                  <td>DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras</td>
+            </tr>      
+            <tr>
+                  <td><a href="https://github.com/raulmur/ORB_SLAM2">ORB-SLAM2</a></td>
+                  <td>ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras</td>
+            </tr>      
+            <tr>
+                  <td><a href="https://github.com/JakobEngel/dso">DSO</a></td>
+                  <td>DSO: Direct Sparse Odometry</td>
+            </tr>
+      </tbody>
+      </table>   
   </div>
 
   <div id="tab2" class="tab-content" style="display:none;">
