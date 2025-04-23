@@ -62,17 +62,17 @@ div_class: lead
 
 <div>
   <div class="tab-buttons">
-    <button class="active" onclick="showTab('tab1', this)">Papers</button>
-    <button onclick="showTab('tab2', this)">Courses</button>
-    <button onclick="showTab('tab3', this)">Software</button>
+    <button class="active" onclick="showTab('tab1', this)">VSLAM</button>
+    <button onclick="showTab('tab3', this)">Benchmark</button>
     <button onclick="showTab('tab4', this)">Datasets</button>
+    <button onclick="showTab('tab2', this)">Education</button>
     <button onclick="showTab('tab5', this)">Foundational</button>
     <button onclick="showTab('tab6', this)">Talks</button>
   </div>
 
   <div id="tab1" class="tab-content active">
     <table>
-      <thead><tr><th></th><th>State-of-the-art Papers</th></tr></thead>
+      <thead><tr><th></th><th>State-of-the-art Visual SLAM</th></tr></thead>
       <tbody>
         <tr><td><a href="https://edexheim.github.io/mast3r-slam/">MASt3R-SLAM</a></td><td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</td></tr>
         <tr><td><a href="https://rmurai.co.uk/projects/GaussianSplattingSLAM/">MonoGS</a></td><td>Gaussian Splatting SLAM</td></tr>
