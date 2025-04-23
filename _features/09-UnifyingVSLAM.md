@@ -148,3 +148,46 @@ div_class: lead
       </tr>      
 </tbody>
 </table>
+
+<div>
+  <ul id="tabs" style="list-style: none; display: flex; padding: 0;">
+    <li><button onclick="showTab('tab1')">Papers</button></li>
+    <li><button onclick="showTab('tab2')">Courses</button></li>
+    <li><button onclick="showTab('tab3')">Software</button></li>
+    <li><button onclick="showTab('tab4')">Datasets</button></li>
+    <li><button onclick="showTab('tab5')">Foundational</button></li>
+    <li><button onclick="showTab('tab6')">Talks</button></li>
+  </ul>
+
+  <div id="tab1" class="tab-content">
+    <!-- Table 1 (Papers) here -->
+  </div>
+
+  <div id="tab2" class="tab-content" style="display:none;">
+    <!-- Table 2 (Courses) here -->
+  </div>
+
+  <div id="tab3" class="tab-content" style="display:none;">
+    <!-- Table 3 (Software) here -->
+  </div>
+
+  <div id="tab4" class="tab-content" style="display:none;">
+    <!-- Table 4 (Datasets) here -->
+  </div>
+
+  <div id="tab5" class="tab-content" style="display:none;">
+    <!-- Table 5 (Foundational) here -->
+  </div>
+
+  <div id="tab6" class="tab-content" style="display:none;">
+    <!-- Table 6 (Talks) here -->
+  </div>
+</div>
+
+<script>
+  function showTab(tabId) {
+    const tabs = document.querySelectorAll('.tab-content');
+    tabs.forEach(t => t.style.display = 'none');
+    document.getElementById(tabId).style.display = 'block';
+  }
+</script>
