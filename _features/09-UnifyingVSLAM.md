@@ -7,63 +7,6 @@ div_class: lead
 # image: "http://placehold.it/500x500"
 ---
 
-<table>
-<thead>
-      <tr>
-            <th></th>
-            <th>Datasets</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://zuriich.github.io/CroCoDL/">CroCoDL</a></td>
-            <td>Augmented reality visual localization benchmark with data from legged robots, and evaluating human-robot, cross-device mapping and localization.</td>
-      </tr>    
-</tbody>
-</table> 
-
-<table>
-<thead>
-      <tr>
-            <th></th>
-            <th>Foundational Papers</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf">PTAM</a></td>
-            <td>Parallel Tracking and Mapping for Small AR Workspace</td>
-      </tr> 
-      <tr>
-            <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954">MonoSLAM</a></td>
-            <td>MonoSLAM: Real-Time Single Camera SLAM</td>
-      </tr>
-</tbody>
-</table> 
-
-<table>
-<thead>
-      <tr>
-            <th></th>
-            <th>Talks</th>
-      </tr>
-</thead>
-<tbody>
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=s9yc9-d-Vc8">Talk</a></td>
-            <td>Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series</td>
-      </tr> 
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=PQFfJnmK26A">Talk</a></td>
-            <td>From SLAM to Spatial AI - Andrew Davison Robotics Today</td>
-      </tr>
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=svzQgfkrxZc">Talk</a></td>
-            <td>Graph-based representations for Spatial-AI | Andrew Davison | Tartan SLAM Series </td>
-      </tr>      
-</tbody>
-</table>
-
 <div>
   <ul id="tabs" style="list-style: none; display: flex; padding: 0;">
     <li><button onclick="showTab('tab1')">State-of-the-art Papers</button></li>
@@ -166,15 +109,66 @@ div_class: lead
   </div>
 
   <div id="tab4" class="tab-content" style="display:none;">
-    <!-- Table 4 (Datasets) here -->
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>Datasets</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://zuriich.github.io/CroCoDL/">CroCoDL</a></td>
+                  <td>Augmented reality visual localization benchmark with data from legged robots, and evaluating human-robot, cross-device mapping and localization.</td>
+            </tr>    
+      </tbody>
+      </table> 
   </div>
 
   <div id="tab5" class="tab-content" style="display:none;">
-    <!-- Table 5 (Foundational) here -->
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>Foundational Papers</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf">PTAM</a></td>
+                  <td>Parallel Tracking and Mapping for Small AR Workspace</td>
+            </tr> 
+            <tr>
+                  <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954">MonoSLAM</a></td>
+                  <td>MonoSLAM: Real-Time Single Camera SLAM</td>
+            </tr>
+      </tbody>
+      </table> 
   </div>
 
   <div id="tab6" class="tab-content" style="display:none;">
-    <!-- Table 6 (Talks) here -->
+      <table>
+      <thead>
+            <tr>
+                  <th></th>
+                  <th>Talks</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+                  <td><a href="https://www.youtube.com/watch?v=s9yc9-d-Vc8">Talk</a></td>
+                  <td>Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series</td>
+            </tr> 
+            <tr>
+                  <td><a href="https://www.youtube.com/watch?v=PQFfJnmK26A">Talk</a></td>
+                  <td>From SLAM to Spatial AI - Andrew Davison Robotics Today</td>
+            </tr>
+            <tr>
+                  <td><a href="https://www.youtube.com/watch?v=svzQgfkrxZc">Talk</a></td>
+                  <td>Graph-based representations for Spatial-AI | Andrew Davison | Tartan SLAM Series </td>
+            </tr>      
+      </tbody>
+      </table>
   </div>
 </div>
 
