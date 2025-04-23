@@ -151,7 +151,7 @@ div_class: lead
 
   <div id="tab8" class="tab-content">
     <table>
-      <thead><tr><th></th><th>Talks</th></tr></thead>
+      <thead><tr><th></th><th>sStructure-from-Motion</th></tr></thead>
       <tbody>
         <tr><td><a href="https://github.com/colmap/glomap">GLOMAP</a></td><td>GLOMAP: Global Structure-from-Motion Revisited</td></tr>
         <tr><td><a href="https://github.com/colmap/colmap">COLMAP</a></td><td>COLMAP: General-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface</td></tr>
