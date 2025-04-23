@@ -142,9 +142,9 @@ div_class: lead
 
   <div id="tab7" class="tab-content">
     <table>
-      <thead><tr><th></th><th>Talks</th></tr></thead>
+      <thead><tr><th></th><th>Others</th></tr></thead>
       <tbody>
-        <tr><td><a href="https://github.com/youngguncho/awesome-slam-datasets">Link</a></td><td>awesome-slam-datasets</td></tr>
+        <tr><td><a href="https://github.com/youngguncho/awesome-slam-datasets">Awesome SLAM Datasets</a></td><td>Collection of SLAM-related datasets</td></tr>
       </tbody>
     </table>
   </div>
