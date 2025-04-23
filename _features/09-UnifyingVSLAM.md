@@ -14,14 +14,7 @@ div_class: lead
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
-              <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
-            </tr>
-             <tr>
-              <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
-              <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
-            </tr>  
+
              <tr>
               <td><a href="https://zuriich.github.io/CroCoDL/">CroCoDL</a></td>
               <td>Augmented reality visual localization benchmark with data from legged robots, and evaluating human-robot, cross-device mapping and localization.</td>
@@ -84,6 +77,25 @@ div_class: lead
             <td><a href="https://www.youtube.com/watch?v=BuRCJ2fegcc">SLAM - 5 Minutes with Cyrill </a></td>
             <td>SLAM - 5 Minutes with Cyrill </td>
       </tr>
+</tbody>
+</table> 
+
+<table>
+<thead>
+      <tr>
+            <th></th>
+            <th>Software Frameworks/Libraries</th>
+      </tr>
+</thead>
+<tbody>
+      <tr>
+            <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
+            <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
+      </tr>
+      <tr>
+            <td><a href="https://github.com/luigifreda/slamplay">slamplay</a></td>
+            <td>A collection of powerful tools to start playing and experimenting with SLAM in C++.</td>
+      </tr>  
 </tbody>
 </table> 
 
