@@ -39,15 +39,27 @@ div_class: lead
 <tbody>
       <tr>
             <td><a href="https://edexheim.github.io/mast3r-slam/">MASt3R-SLAM</a></td>
-            <td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors.</td>
+            <td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors</td>
       </tr>
       <tr>
             <td><a href="https://rmurai.co.uk/projects/GaussianSplattingSLAM/">MonoGS</a></td>
-            <td>Gaussian Splatting SLAM.</td>
+            <td>Gaussian Splatting SLAM</td>
       </tr>  
       <tr>
             <td><a href="https://github.com/princeton-vl/DPVO">DPVO</a></td>
-            <td>Deep Patch Visual Odometry/SLAM.</td>
+            <td>Deep Patch Visual Odometry/SLAM</td>
+      </tr>    
+      <tr>
+            <td><a href="https://github.com/princeton-vl/DROID-SLAM">DROID-SLAM</a></td>
+            <td>DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras</td>
       </tr>      
+      <tr>
+            <td><a href="https://github.com/raulmur/ORB_SLAM2">ORB-SLAM2</a></td>
+            <td>ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras</td>
+      </tr>      
+      <tr>
+            <td><a href="https://github.com/JakobEngel/dso">DSO</a></td>
+            <td>DSO: Direct Sparse Odometry</td>
+      </tr>
 </tbody>
 </table>   
