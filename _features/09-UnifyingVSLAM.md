@@ -63,6 +63,7 @@ div_class: lead
 <div>
   <div class="tab-buttons">
     <button class="active" onclick="showTab('tab1', this)">VSLAM</button>
+    <button onclick="showTab('tab8', this)">SfM</button>
     <button onclick="showTab('tab3', this)">Benchmark</button>
     <button onclick="showTab('tab4', this)">Datasets</button>
     <button onclick="showTab('tab2', this)">Education</button>
@@ -143,6 +144,17 @@ div_class: lead
       <thead><tr><th></th><th>Talks</th></tr></thead>
       <tbody>
         <tr><td><a href="https://github.com/youngguncho/awesome-slam-datasets">Link</a></td><td>awesome-slam-datasets</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+
+  <div id="tab8" class="tab-content">
+    <table>
+      <thead><tr><th></th><th>Talks</th></tr></thead>
+      <tbody>
+        <tr><td><a href="https://github.com/colmap/glomap">GLOMAP</a></td><td>GLOMAP: Global Structure-from-Motion Revisited</td></tr>
+        <tr><td><a href="https://github.com/colmap/colmap">COLMAP</a></td><td>COLMAP: General-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface</td></tr>
       </tbody>
     </table>
   </div>
