@@ -29,3 +29,25 @@ div_class: lead
           </tbody>
         </table>     
       
+<table>
+<thead>
+      <tr>
+            <th></th>
+            <th>State-of-the-art Papers</th>
+      </tr>
+</thead>
+<tbody>
+      <tr>
+            <td><a href="https://edexheim.github.io/mast3r-slam/">MASt3R-SLAM</a></td>
+            <td>MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors.</td>
+      </tr>
+      <tr>
+            <td><a href="https://rmurai.co.uk/projects/GaussianSplattingSLAM/">MonoGS</a></td>
+            <td>Gaussian Splatting SLAM.</td>
+      </tr>  
+      <tr>
+            <td><a href="https://github.com/princeton-vl/DPVO">DPVO</a></td>
+            <td>Deep Patch Visual Odometry/SLAM.</td>
+      </tr>      
+</tbody>
+</table>   
