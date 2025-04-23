@@ -138,7 +138,7 @@ div_class: lead
     </table>
   </div>
 
-    <div id="tab7" class="tab-content">
+  <div id="tab7" class="tab-content">
     <table>
       <thead><tr><th></th><th>Talks</th></tr></thead>
       <tbody>
