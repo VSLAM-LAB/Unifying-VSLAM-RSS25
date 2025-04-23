@@ -68,6 +68,29 @@ div_class: lead
 <thead>
       <tr>
             <th></th>
+            <th>Courses / Educational Materials</th>
+      </tr>
+</thead>
+<tbody>
+      <tr>
+            <td><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release">SLAM Handbook</a></td>
+            <td>SLAM Handbook </td>
+      </tr> 
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_">SLAM-Course</a></td>
+            <td>SLAM-Course (2013/14; Cyrill Stachniss)</td>
+      </tr>
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=BuRCJ2fegcc">SLAM - 5 Minutes with Cyrill </a></td>
+            <td>SLAM - 5 Minutes with Cyrill </td>
+      </tr>
+</tbody>
+</table> 
+
+<table>
+<thead>
+      <tr>
+            <th></th>
             <th>Foundational papers</th>
       </tr>
 </thead>
