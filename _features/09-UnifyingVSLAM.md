@@ -103,7 +103,7 @@ div_class: lead
 <thead>
       <tr>
             <th></th>
-            <th>Foundational papers</th>
+            <th>Foundational Papers</th>
       </tr>
 </thead>
 <tbody>
@@ -117,3 +117,26 @@ div_class: lead
       </tr>
 </tbody>
 </table> 
+
+<table>
+<thead>
+      <tr>
+            <th></th>
+            <th>Talks</th>
+      </tr>
+</thead>
+<tbody>
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=s9yc9-d-Vc8">Talk</a></td>
+            <td>Daniel Cremers | Deep and Direct Visual SLAM | Tartan SLAM Series</td>
+      </tr> 
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=PQFfJnmK26A">Talk</a></td>
+            <td>From SLAM to Spatial AI - Andrew Davison Robotics Today</td>
+      </tr>
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=svzQgfkrxZc">Talk</a></td>
+            <td>Graph-based representations for Spatial-AI | Andrew Davison | Tartan SLAM Series </td>
+      </tr>      
+</tbody>
+</table>
