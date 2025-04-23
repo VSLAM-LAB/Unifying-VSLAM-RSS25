@@ -63,3 +63,22 @@ div_class: lead
       </tr>
 </tbody>
 </table>   
+
+<table>
+<thead>
+      <tr>
+            <th></th>
+            <th>Foundational papers</th>
+      </tr>
+</thead>
+<tbody>
+      <tr>
+            <td><a href="https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf">PTAM</a></td>
+            <td>Parallel Tracking and Mapping for Small AR Workspace</td>
+      </tr> 
+      <tr>
+            <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954">MonoSLAM</a></td>
+            <td>MonoSLAM: Real-Time Single Camera SLAM</td>
+      </tr>
+</tbody>
+</table> 
