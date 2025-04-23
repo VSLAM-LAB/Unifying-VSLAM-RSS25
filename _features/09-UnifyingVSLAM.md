@@ -9,9 +9,9 @@ div_class: lead
 
 <div>
   <ul id="tabs" style="list-style: none; display: flex; padding: 0;">
-    <li><button onclick="showTab('tab1')">State-of-the-art Papers</button></li>
-    <li><button onclick="showTab('tab2')">Courses / Educational Materials / Tutorials</button></li>
-    <li><button onclick="showTab('tab3')">Software Frameworks/Librarie</button></li>
+    <li><button onclick="showTab('tab1')">SotA VSLAM</button></li>
+    <li><button onclick="showTab('tab2')"> Educational </button></li>
+    <li><button onclick="showTab('tab3')">Software</button></li>
     <li><button onclick="showTab('tab4')">Datasets</button></li>
     <li><button onclick="showTab('tab5')">Foundational</button></li>
     <li><button onclick="showTab('tab6')">Talks</button></li>
