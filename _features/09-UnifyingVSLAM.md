@@ -46,7 +46,7 @@ div_class: lead
 <thead>
       <tr>
             <th></th>
-            <th>Courses / Educational Materials</th>
+            <th>Courses / Educational Materials / Tutorials</th>
       </tr>
 </thead>
 <tbody>
@@ -73,6 +73,14 @@ div_class: lead
       </tr>
 </thead>
 <tbody>
+      <tr>
+            <td><a href="https://github.com/alejandrofontan/VSLAM-LAB">VSLAM-LAB</a></td>
+            <td>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets</td>
+      </tr>  
+       <tr>
+            <td><a href="https://github.com/gmberton/VPR-methods-evaluation">VPR-methods</a></td>
+            <td>VPR-methods-evaluation</td>
+      </tr>  
       <tr>
             <td><a href="https://github.com/luigifreda/pyslam">PySLAM</a></td>
             <td>A python implementation of a Visual SLAM pipeline that supports monocular, stereo and RGBD cameras.</td>
