@@ -21,7 +21,7 @@ div_class: lead
     border-bottom: 3px solid transparent;
     padding: 10px 16px;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 2rem;
     transition: border-color 0.3s, background-color 0.3s;
   }
 
