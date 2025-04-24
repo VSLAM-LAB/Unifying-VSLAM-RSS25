@@ -3,8 +3,7 @@ Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to S
 
 # Unifying Visual SLAM
 
-<details>
-<summary><strong>VSLAM</strong></summary>
+## VSLAM
 
 | | State-of-the-art Visual SLAM |
 |---|-----------------------------|
@@ -15,20 +14,18 @@ Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to S
 | [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras |
 | [DSO](https://github.com/JakobEngel/dso) | DSO: Direct Sparse Odometry |
 
-</details>
+---
 
-<details>
-<summary><strong>SfM</strong></summary>
+## SfM
 
 | | Structure-from-Motion |
 |---|----------------------|
 | [GLOMAP](https://github.com/colmap/glomap) | GLOMAP: Global Structure-from-Motion Revisited |
 | [COLMAP](https://github.com/colmap/colmap) | COLMAP: General-purpose SfM and Multi-View Stereo pipeline |
 
-</details>
+---
 
-<details>
-<summary><strong>Benchmark</strong></summary>
+## Benchmark
 
 | | Software Frameworks/Libraries |
 |---|------------------------------|
@@ -37,19 +34,17 @@ Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to S
 | [PySLAM](https://github.com/luigifreda/pyslam) | A Python implementation of a Visual SLAM pipeline for various camera types |
 | [slamplay](https://github.com/luigifreda/slamplay) | Tools for experimenting with SLAM in C++ |
 
-</details>
+---
 
-<details>
-<summary><strong>Datasets</strong></summary>
+## Datasets
 
 | | Datasets |
 |---|---------|
 | [CroCoDL](https://zuriich.github.io/CroCoDL/) | AR visual localization benchmark from legged robots for human-robot, cross-device mapping |
 
-</details>
+---
 
-<details>
-<summary><strong>Education</strong></summary>
+## Education
 
 | | Courses / Educational Materials / Tutorials |
 |---|--------------------------------------------|
@@ -57,20 +52,18 @@ Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to S
 | [SLAM-Course](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) | SLAM-Course by Cyrill Stachniss |
 | [5 Minutes with Cyrill](https://www.youtube.com/watch?v=BuRCJ2fegcc) | SLAM - 5 Minutes with Cyrill |
 
-</details>
+---
 
-<details>
-<summary><strong>Foundational</strong></summary>
+## Foundational
 
 | | Foundational Papers |
 |---|--------------------|
 | [PTAM](https://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf) | Parallel Tracking and Mapping for Small AR Workspace |
 | [MonoSLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4160954) | MonoSLAM: Real-Time Single Camera SLAM |
 
-</details>
+---
 
-<details>
-<summary><strong>Talks</strong></summary>
+## Talks
 
 | | Talks |
 |---|------|
@@ -78,23 +71,20 @@ Website for the workshop on "Unifying Visual SLAM: From Fragmented Datasets to S
 | [Andrew Davison (1)](https://www.youtube.com/watch?v=PQFfJnmK26A) | From SLAM to Spatial AI - Robotics Today |
 | [Andrew Davison (2)](https://www.youtube.com/watch?v=svzQgfkrxZc) | Graph-based Representations for Spatial-AI - Tartan SLAM Series |
 
-</details>
+---
 
-<details>
-<summary><strong>Tools</strong></summary>
+## Tools
 
 | | Other Tools |
 |---|-------------|
 | [Pixi](https://pixi.sh/latest/) | A package management tool for developers |
 | [Spectacular AI](https://spectacularai.github.io/docs/sdk/core.html) | SDK for real-time 3D mapping and 6-DoF pose tracking |
 
-</details>
+---
 
-<details>
-<summary><strong>More</strong></summary>
+## More
 
 | | Others |
 |---|--------|
 | [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) | Collection of SLAM-related datasets |
 
-</details>
