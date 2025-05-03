@@ -59,7 +59,7 @@ Please submit your paper via [CMT](https://cmt3.research.microsoft.com/UniVSLAM2
 
 |----------------|------------------------------|
 | April 7        | Call for submissions         |
-| May 5 | Submissions due |
+| May 26 | Submissions due |
 | June 2   | Notification of acceptance   |
 | June 21     | Workshop at RSS!            |
 
