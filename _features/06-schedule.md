@@ -36,7 +36,6 @@ div_class: lead
               <td><a href="https://www.linkedin.com/in/ruben-arts/">Ruben Arts</a></td>
             </tr>
             <tr>
-            <tr>
               <td>10:00</td>
               <td><a href="https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam">Isaac ROS Visual SLAM</a></td>
               <td><a href="https://www.linkedin.com/in/tomaszpbednarz/">Tomasz Bednarz</a></td>
