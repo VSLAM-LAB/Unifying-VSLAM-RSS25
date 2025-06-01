@@ -66,7 +66,7 @@ div_class: lead
               <td><a href="https://www.linkedin.com/in/shehryar-khattak/">Shehryar Khattak</a></td>
             </tr>
             <tr>
-              <td>12:20</td>
+              <td>12:15</td>
               <td><b>Unifying Visual SLAM</b>: From Fragmented Datasets to Scalable, Real-World Solutions</td>
               <td></td>
             </tr>
