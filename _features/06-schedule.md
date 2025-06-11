@@ -42,7 +42,7 @@ div_class: lead
             </tr>
             <tr>
               <td>10:40</td>
-              <td>Poster Session/Coffee Break</td>
+              <td>Poster Session / Coffee Break</td>
               <td></td>
             </tr>            
             <tr>
