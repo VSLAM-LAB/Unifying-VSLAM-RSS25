@@ -38,7 +38,7 @@ div_class: lead
             <tr>
               <td>10:00</td>
               <td><a href="https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam">Isaac ROS Visual SLAM</a></td>
-              <td><a href="https://www.linkedin.com/in/tomaszpbednarz/">Tomasz Bednarz</a></td>
+              <td><a href="https://www.linkedin.com/in/hesam-rabeti-a994a61b/">Hesam Rabeti</a></td>
             </tr>
             <tr>
               <td>10:40</td>
