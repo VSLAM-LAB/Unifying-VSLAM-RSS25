@@ -26,22 +26,27 @@ div_class: lead
               <td><a href="https://www.luigifreda.com/">Luigi Freda</a></td>
             </tr>
             <tr>
-              <td>09:30</td>
+              <td>09:25</td>
               <td><a href="https://prefix.dev/">pixi - powerful development environments on Windows, macOS and Linux</a></td>
               <td><a href="https://www.linkedin.com/in/ruben-arts/">Ruben Arts</a></td>
             </tr>
             <tr>
-              <td>09:45</td>
+              <td>09:40</td>
               <td><a href="https://kaldir.vc.in.tum.de/scannetpp/">Scannet++: A high-fidelity dataset of 3d indoor scenes</a></td>
               <td><a href="https://www.professoren.tum.de/en/dai-angela">Angela Dai</a></td>
-            </tr>         
+            </tr> 
             <tr>
-              <td>10:00</td>
+              <td>09:55</td>
+              <td><a href="--</a></td>
+              <td><a href="https://krrish94.github.io/">Krishna Murthy</a></td>
+            </tr>                      
+            <tr>
+              <td>10:15</td>
               <td><a href="https://github.com/NVlabs/PyCuVSLAM">pyCuVSLAM and Beyond: Accelerating Visual Localization with NVIDIA Tools</a></td>
               <td><a href="https://www.linkedin.com/in/hesam-rabeti-a994a61b/">Hesam Rabeti</a></td>
             </tr>
             <tr>
-              <td>10:40</td>
+              <td>10:45</td>
               <td>Poster Session / Coffee Break</td>
               <td></td>
             </tr>            
