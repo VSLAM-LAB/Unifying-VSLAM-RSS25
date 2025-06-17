@@ -34,8 +34,14 @@
   position: Robot Technologist
   affiliation: NASA Jet Propulsion Lab
 
+- name: Krishna Murthy
+  image: /assets/images/krishna_murthy.jpeg
+  web: https://krrish94.github.io/
+  position: AI Research Scientist
+  affiliation: Meta
+  
 - name: Hesam Rabeti
   image: /assets/images/hesam_rabeti.jpeg
   web: https://www.linkedin.com/in/hesam-rabeti-a994a61b/
-  position: Director, Strategic Researcher Engagement
+  position: Localization and mapping expert
   affiliation: NVIDIA
