@@ -52,7 +52,7 @@ div_class: lead
             </tr>            
             <tr>
               <td>11:25</td>
-              <td><a --</a></td>
+              <td><a href="https://www.projectaria.com/">ARIA GEN 2, FROM META: Accelerating Contextual AI, Robotics, and more.</a></td>
               <td><a href="https://krrish94.github.io/">Krishna Murthy</a></td>
             </tr>
             <tr>
