@@ -37,8 +37,8 @@ div_class: lead
             </tr> 
             <tr>
               <td>09:55</td>
-              <td><a href="--</a></td>
-              <td><a href="https://krrish94.github.io/">Krishna Murthy</a></td>
+              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a>: Pushing the Limits of Visual SLAM in Challenging Environments </td>
+              <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
             </tr>                      
             <tr>
               <td>10:15</td>
@@ -52,8 +52,8 @@ div_class: lead
             </tr>            
             <tr>
               <td>11:25</td>
-              <td><a href="https://theairlab.org/tartanair-dataset/">Tartanair</a> and <a href="https://arxiv.org/pdf/2307.07607">Subt-mrs</a>: Pushing the Limits of Visual SLAM in Challenging Environments </td>
-              <td><a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a></td>
+              <td><a --</a></td>
+              <td><a href="https://krrish94.github.io/">Krishna Murthy</a></td>
             </tr>
             <tr>
               <td>11:50</td>
