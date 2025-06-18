@@ -34,7 +34,7 @@ div_class: lead
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
     <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
     <strong>Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization </strong> 
-    <br> Guangyang Zeng, Yuan Shen ,et al.<br>
+    <br> Guangyang Zeng, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi, Junfeng Wu<br>
 </div>
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
@@ -46,7 +46,7 @@ div_class: lead
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
     <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
     <strong>Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps </strong> 
-    <br> Tianxiao Gao1, Mingle Zhao, Chengzhong Xu, and Hui Kong<br>
+    <br> Tianxiao Gao, Mingle Zhao, Chengzhong Xu, and Hui Kong<br>
 </div>
 
 <script>
