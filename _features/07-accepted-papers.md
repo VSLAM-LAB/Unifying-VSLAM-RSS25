@@ -13,16 +13,6 @@ div_class: lead
     <a href="assets/proceedings/Schubert_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <a href="assets/proceedings/Schubert_Poster_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
     Stefan Schubert<br>
-    
-    <details>
-        <summary style="font-size: 16px; color: #007bff; cursor: pointer; list-style: none; display: inline;">
-            <span id="toggle-icon" style="display: inline-block; transform: rotate(0deg); transition: transform 0.3s;">▶</span>
-            Poster Thumbnail
-        </summary>
-        <div style="margin-top: 10px;">
-            <img src="assets/proceedings/tax/poster.png" alt="Poster Thumbnail" style="width: 800px; border: 1px solid #ddd; border-radius: 8px;">
-        </div>
-    </details>
 </div>
 
 <script>
