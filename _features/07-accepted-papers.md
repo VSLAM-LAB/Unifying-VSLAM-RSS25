@@ -31,6 +31,24 @@ div_class: lead
     Junlin Song and Miguel Olivares-Mendez<br>
 </div>
 
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
+    <strong>Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization </strong> 
+    <br> Guangyang Zeng, Yuan Shen ,et al.<br>
+</div>
+
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
+    <strong>Semantic pySLAM: Unifying semantic mapping approaches under the same benchmark </strong> 
+    <br> David Morilla-Cabello, Eduardo Montijano<br>
+</div>
+
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
+    <strong>Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps </strong> 
+    <br> Tianxiao Gao1, Mingle Zhao, Chengzhong Xu, and Hui Kong<br>
+</div>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         document.querySelectorAll('details').forEach(function(detail) {
