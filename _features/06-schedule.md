@@ -52,7 +52,7 @@ div_class: lead
             </tr>            
             <tr>
               <td>11:25</td>
-              <td>Beyond SLAM: Evaluating 3D understanding.</a></td>
+              <td>Beyond SLAM: Evaluating 3D understanding.</td>
               <td><a href="https://krrish94.github.io/">Krishna Murthy</a></td>
             </tr>
             <tr>
