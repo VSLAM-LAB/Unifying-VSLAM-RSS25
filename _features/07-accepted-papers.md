@@ -26,7 +26,7 @@ div_class: lead
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
     <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
     <strong>Structureless VIO</strong> 
-    <a href="assets/proceedings/junlin Song_Paper_5" style="text-decoration: none; color: #007bff;">[Paper]</a> 
+    <a href="assets/proceedings/junlin Song_Paper_5.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <a href="assets/proceedings/junlin Song_Poster_5.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
     Junlin Song and Miguel Olivares-Mendez<br>
 </div>
