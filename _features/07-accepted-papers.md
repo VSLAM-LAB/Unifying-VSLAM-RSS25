@@ -15,6 +15,14 @@ div_class: lead
     Stefan Schubert<br>
 </div>
 
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
+    <strong>TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition</strong> 
+    <a href="assets/proceedings/TAT_VPR_V1.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
+    <a href="assets/proceedings/Oliver Grainge_poster.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
+    Oliver Grainge , Michael Milford , Indu Bodala1 , Sarvapali D. Ramchurn and Shoaib Ehsan<br>
+</div>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         document.querySelectorAll('details').forEach(function(detail) {
