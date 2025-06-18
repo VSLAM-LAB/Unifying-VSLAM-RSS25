@@ -10,8 +10,8 @@ div_class: lead
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
     <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
     <strong>On the Potential of Visual Place Recognition for Visual SLAM</strong> 
-    <a href="assets/proceedings/tax/Schubert_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
-    <a href="assets/proceedings/tax/Schubert_Poster_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
+    <a href="assets/proceedings/Schubert_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
+    <a href="assets/proceedings/Schubert_Poster_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
     Stefan Schubert<br>
     
     <details>
