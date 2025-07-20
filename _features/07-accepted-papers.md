@@ -8,11 +8,18 @@ div_class: lead
 ---
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
-    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
+     <p><strong><span style="color: red;">Winner of the Outstanding Workshop Paper Award</span></strong></p>
     <strong>On the Potential of Visual Place Recognition for Visual SLAM</strong> 
     <a href="assets/proceedings/Schubert_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <a href="assets/proceedings/Schubert_Poster_RSS2025_WorkshopUnifyingVSLAM.pdf" style="text-decoration: none; color: #007bff;">[Poster]</a><br>
     Stefan Schubert<br>
+</div>
+
+<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
+    <p><strong><span style="color: red;">Winner of the Outstanding Workshop Open-Source Contribution Award</span></strong></p>
+    <strong>Semantic pySLAM: Unifying semantic mapping approaches under the same benchmark </strong> 
+    <a href="assets/proceedings/2025_RSSWS_SemanticSlam.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
+    <br> David Morilla-Cabello, Eduardo Montijano<br>
 </div>
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
@@ -36,13 +43,6 @@ div_class: lead
     <strong>Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization </strong> 
     <a href="assets/proceedings/Bias-Elim-Pnp.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
     <br> Guangyang Zeng, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi, Junfeng Wu<br>
-</div>
-
-<div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
-    <!-- <p><strong><span style="color: red;">Winner of the Outstanding Workshop Presentation Award</span></strong></p> -->
-    <strong>Semantic pySLAM: Unifying semantic mapping approaches under the same benchmark </strong> 
-    <a href="assets/proceedings/2025_RSSWS_SemanticSlam.pdf" style="text-decoration: none; color: #007bff;">[Paper]</a> 
-    <br> David Morilla-Cabello, Eduardo Montijano<br>
 </div>
 
 <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
