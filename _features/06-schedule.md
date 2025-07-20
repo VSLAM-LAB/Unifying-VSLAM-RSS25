@@ -32,7 +32,7 @@ div_class: lead
             </tr>
             <tr>
               <td>09:40</td>
-              <td><a href="https://kaldir.vc.in.tum.de/scannetpp/">Scannet++: A high-fidelity dataset of 3d indoor scenes</a></td>
+              <td>Towards Holistic 3D Perception</td>
               <td><a href="https://www.professoren.tum.de/en/dai-angela">Angela Dai</a></td>
             </tr> 
             <tr>
