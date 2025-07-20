@@ -19,4 +19,9 @@ div_class: lead
     <img src="assets/event_pic/evenct_pic_09.jpg" alt="Image 9" style="width: auto; height: 300px; border-radius: 8px;">
     <img src="assets/event_pic/evenct_pic_10.jpg" alt="Image 10" style="width: auto; height: 300px; border-radius: 8px;">
     <img src="assets/event_pic/evenct_pic_11.jpg" alt="Image 11" style="width: auto; height: 300px; border-radius: 8px;">
+    <img src="assets/event_pic/evenct_pic_12.jpg" alt="Image 12" style="width: auto; height: 300px; border-radius: 8px;">
+    <img src="assets/event_pic/evenct_pic_13.jpg" alt="Image 13" style="width: auto; height: 300px; border-radius: 8px;">
+    <img src="assets/event_pic/evenct_pic_14.jpg" alt="Image 14" style="width: auto; height: 300px; border-radius: 8px;">
+    <img src="assets/event_pic/evenct_pic_15.jpg" alt="Image 15" style="width: auto; height: 300px; border-radius: 8px;">
+
 </div>
